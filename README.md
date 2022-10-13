@@ -1,0 +1,2 @@
+# ShrinkSort
+new sorting algorithm
